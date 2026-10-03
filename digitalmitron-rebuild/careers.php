@@ -1,0 +1,4 @@
+<?php $pageTitle='Careers | Digital Mitron'; $bodyClass='careers-page'; include __DIR__.'/includes/header.php'; ?>
+<section class="page-hero section"><div class="container narrow reveal"><span class="eyebrow">Careers</span><h1>Do work you would want to put your name on.</h1><p class="lead">We value clarity, ownership, curiosity and people who care about how details affect the final experience.</p></div></section>
+<section class="section"><div class="container empty-state reveal"><span class="eyebrow">Current openings</span><h2>Nothing open right now.</h2><p>Still think we should meet? Send your profile and a short note about the kind of work you want to do.</p><a class="btn" href="mailto:hello@digitalmitron.in">Introduce yourself <?= icon('arrow') ?></a></div></section>
+<?php include __DIR__.'/includes/footer.php'; ?>
