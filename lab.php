@@ -1,0 +1,9 @@
+<?php $pageTitle='Digital Mitron Lab'; $currentPage='lab'; $bodyClass='lab-page'; include __DIR__.'/includes/header.php'; ?>
+<section class="page-hero section"><div class="container narrow reveal"><span class="eyebrow">Digital Mitron Lab</span><h1>We do not wait for a client brief to explore better ideas.</h1><p class="lead">Self-initiated concept work that shows how we approach structure, interfaces, brands, conversion and growth. Every piece is clearly labelled as a concept — never presented as client work.</p></div></section>
+<section class="section"><div class="container lab-large-grid">
+<article class="lab-project reveal"><div class="project-art project-web"><div></div><div></div><div></div></div><span>Concept Project · Website UX</span><h2>Service Website Reimagined</h2><p>Redesigning an outdated service business around clearer navigation, stronger messaging and task-based journeys.</p></article>
+<article class="lab-project reveal"><div class="project-art project-commerce"><div></div><div></div><div></div></div><span>Concept Project · Ecommerce</span><h2>Checkout Friction Study</h2><p>Exploring product comparison, confidence signals and checkout decisions for a fictional commerce brand.</p></article>
+<article class="lab-project reveal"><div class="project-art project-brand"><b>Aa</b><i></i><i></i><i></i></div><span>Concept Project · Brand System</span><h2>Identity Across Touchpoints</h2><p>Testing how one visual system behaves across website, social, campaign and presentation surfaces.</p></article>
+<article class="lab-project reveal"><div class="project-art project-seo"><div class="searchbar"></div><div></div><div></div></div><span>Concept Project · Search</span><h2>SEO Architecture Experiment</h2><p>Turning scattered service pages into a clearer topic structure with stronger internal linking and intent alignment.</p></article>
+</div></section>
+<?php include __DIR__.'/includes/footer.php'; ?>
